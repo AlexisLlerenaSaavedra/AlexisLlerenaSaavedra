@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,soy Alexis</h1>
-<h3 align="center">Soy un full Stack Developer apasionado, y en todo aspecto</h3>
+<h3 align="center">Soy un full Stack Developer apasionado, con buena comunicacion y autodidacta</h3>
 
 - 💬 Preguntame sobre **Vue,Springboot,Java, React y Gsap**
 
